@@ -1,4 +1,4 @@
 .env
 .venv/
 __pycache__/
-data_with_embeddings.pkl
+!data_with_embeddings.pkl
